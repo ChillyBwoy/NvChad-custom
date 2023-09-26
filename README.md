@@ -2,5 +2,5 @@
 
 ## Installation
 
-Clone this repo to ~/.config/nvim/custom
+Clone this repo to `~/.config/nvim/lua/custom`
 
