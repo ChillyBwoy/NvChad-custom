@@ -76,7 +76,10 @@ local plugins = {
   {
     "github/copilot.vim",
     lazy = false,
-  }
+  },
+  {
+    "yaegassy/coc-volar"
+  },
 }
 
 return plugins
