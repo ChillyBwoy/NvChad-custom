@@ -72,6 +72,10 @@ local plugins = {
         "pyright",
       }
     }
+  },
+  {
+    "github/copilot.vim",
+    lazy = false,
   }
 }
 
